@@ -28,3 +28,13 @@ Além da programação, gosto de explorar novas tecnologias e aprender sobre inf
 
 Obrigado por visitar meu perfil! Se tiver alguma pergunta ou quiser colaborar em um projeto, não hesite em entrar em contato.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janacs/janacs/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janacs/janacs/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/janacs/janacs/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+
