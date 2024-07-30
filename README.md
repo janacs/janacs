@@ -12,8 +12,8 @@ Me chamo Janderson Sousa, sou Assistente de CPD e estudante de Sistemas de Infor
 - **AZ-900**: Microsoft Certified: Azure Fundamentals
 
 ## Contato e Redes Sociais 📌
-  <a href="https://www.linkedin.com/in/janderson-sousa-a23b5b1b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:jandersonsouza_phn@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/janderson-sousa-a23b5b1b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Estatísticas do GitHub 📊
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=janacs&show_icons=true&theme=dracula)
