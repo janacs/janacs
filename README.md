@@ -1,7 +1,7 @@
 # Hello, world! 🗺️
 
 ## Sobre Mim 🚀
-Me chamo Janderson Sousa, sou Assistente de CPD e estudante de Sistemas de Informação com uma paixão em tecnologias em nuvem e descobrindo o mundo do desenvolvimento Front-End.
+Me chamo Janderson Sousa, sou Assistente de CPD e estudante de Sistemas de Informação com paixão em tecnologias em nuvem e descobrindo o mundo do desenvolvimento Front-End.
 
 ## Habilidades e Tecnologias 🖳
 - **Linguagens:** JavaScript, HTML, CSS (Aprendendo)
