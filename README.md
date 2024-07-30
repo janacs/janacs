@@ -15,7 +15,7 @@ Me chamo Janderson Sousa, sou Assistente de CPD e estudante de Sistemas de Infor
 - [**LinkedIn**](https://www.linkedin.com/in/janderson-sousa-a23b5b1b4/)
 
 ## Estatísticas do GitHub 📊
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=janacs&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=janacs&show_icons=true&theme=dracula)
 
 ## Outros Interesses 🔥
 Além da programação, gosto de explorar novas tecnologias e aprender sobre infraestrutura em nuvem. Nos meus tempos livres, gosto de ler sobre novas tendências tecnológicas e participar de comunidades sobre o tema.
