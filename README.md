@@ -21,20 +21,6 @@ Me chamo Janderson Sousa, sou Assistente de CPD e estudante de Sistemas de Infor
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janacs&&&layout=compact&theme=dracula)](https://github.com/janacs/github-readme-stats)
 
 
-## Outros Interesses 🔥
-Além da programação, gosto de explorar novas tecnologias e aprender sobre infraestrutura em nuvem. Nos meus tempos livres, gosto de ler sobre novas tendências tecnológicas e participar de comunidades sobre o tema.
-
----
-
-Obrigado por visitar meu perfil! Se tiver alguma pergunta ou quiser colaborar em um projeto, não hesite em entrar em contato.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/janacs/janacs/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/janacs/janacs/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/janacs/janacs/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 
 
 
