@@ -17,7 +17,6 @@ Me chamo Janderson Sousa, sou Assistente de CPD e estudante de Sistemas de Infor
 ## Estatísticas do GitHub 📊
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=janacs&show_icons=true&theme=dracula)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janacs&&&layout=compact&theme=dracula)](https://github.com/janacs/github-readme-stats)
 
 
