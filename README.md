@@ -1,7 +1,7 @@
-# Olá! Eu sou Janderson Araújo Correia de Sousa 👋
+# Olá!👋
 
 ## Sobre Mim
-Sou Assistente de CPD e estudante de Sistemas de Informação com uma paixão em tecnologias em nuvem e descobrindo o mundo de desenvolvimento front-end, explorar novas ferramentas e melhorar minhas habilidades em programação.
+Mew chamo Janderson, sou Assistente de CPD e estudante de Sistemas de Informação com uma paixão em tecnologias em nuvem e descobrindo o mundo de desenvolvimento front-end, explorar novas ferramentas e melhorar minhas habilidades em programação.
 
 ## Habilidades e Tecnologias
 - **Linguagens:** JavaScript, HTML, CSS (Aprendendo)
@@ -16,7 +16,7 @@ Sou Assistente de CPD e estudante de Sistemas de Informação com uma paixão em
 - **Email**: [janderson@email.com](mailto:jandersonsouza_phn@hotmail.com)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=janacs&show_icons=true&theme=radical)
 
 ## Outros Interesses
 Além da programação, gosto de explorar novas tecnologias e aprender sobre infraestrutura em nuvem. Nos meus tempos livres, gosto de ler sobre novas tendências tecnológicas e participar de comunidades sobre o tema.
