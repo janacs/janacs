@@ -11,7 +11,7 @@ Mew chamo Janderson, sou Assistente de CPD e estudante de Sistemas de Informaç�
 ## Certificações e Cursos
 - **AZ-900**: Microsoft Certified: Azure Fundamentals
 
-## Contato e Redes Sociais
+## Contato
 - [**LinkedIn**](https://www.linkedin.com/in/janderson-sousa-a23b5b1b4/)
 
 ## Estatísticas do GitHub
