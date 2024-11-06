@@ -4,9 +4,14 @@
 Me chamo Janderson Sousa, sou Assistente de CPD e estudante de Sistemas de Informação com paixão em tecnologias em nuvem e descobrindo o mundo do desenvolvimento Front-End.
 
 ## Habilidades e Tecnologias 🖳
-- **Linguagens:** JavaScript, HTML, CSS (Aprendendo)
-- **Frameworks/Bibliotecas:** React.js, Vue.js (Aprendendo)
-- **Ferramentas:** Git, GitHub, VS Code (Aprendendo)
+- **Linguagens:** JavaScript (em constante aprimoramento), HTML5, CSS3, Sass
+- **Frameworks/Bibliotecas:** React.js (incluindo uso de Vite e desenvolvimento de projetos como uma calculadora), Vue.js (em aprendizado), Node.js (básico)
+- **APIs e Integrações:** Consumo de APIs RESTful, integração de API em projetos de frontend
+- **Ferramentas de Controle de Versão:** Git, GitHub
+- **Ambientes e Ferramentas de Desenvolvimento:** VS Code, Vite
+- **Cloud e DevOps:** Conceitos e prática em AWS (VPC, EC2, IAM), introdução à infraestrutura de nuvem com AWS Re/Start, conhecimento em ambientes de desenvolvimento e integração contínua
+- **Outras Habilidades Técnicas:** Consistência de logs de venda, suporte técnico N1, abertura e acompanhamento de chamados, e experiência com sistemas de gestão de varejo e ERP (Zanthus, Handcom, Alô Web, Vmix, MGV Cloud Prix, Protheus - básico)
+
 
 ## Certificações e Cursos 🏆
 - Certificação Azure Fundamentals (AZ-900) , Microsoft – 2024
