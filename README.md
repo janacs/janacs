@@ -16,7 +16,7 @@ Hi! My name is Janderson Sousa. I’m a CPD Assistant and an Information Systems
 ## Certifications and Courses 🏆
 - Azure Fundamentals (AZ-900), Microsoft – 2024
 - Cloud Practitioner Certified, AWS – 2024
-- Front-End Developer, Vai na Web – 2024
+- Front-end Developer, Vai na Web – 2024
 - AWS Re/Start, Escola da Nuvem – 2024
 - AI for Everyone | Trend or Definitive Business Transformation?, Ka Solution – 2024
 - AWS AI Practitioner - Discovery Day, Ka Solution – 2024
