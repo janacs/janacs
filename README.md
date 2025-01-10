@@ -4,7 +4,7 @@
 Hi! My name is Janderson Sousa. I’m a CPD Assistant and an Information Systems student passionate about cloud technologies and exploring the world of Front-End development.
 
 ## Skills and Technologies 🖳
-- **Languages:** JavaScript, HTML5, CSS3, SASS.
+- **Languages:** JavaScript, HTML5, CSS3, SCSS.
 - **Frameworks/Bibliotecas:** React.js, Vue.js and Node.js.
 - **APIs and Integrations:** RESTful API consumption, API integration in front-end projects.
 - **Version Control Tools:** Git, GitHub.
