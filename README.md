@@ -1,17 +1,7 @@
 # Hello, world! 🗺️
 
 ## About me 🚀
-Hi! My name is Janderson Sousa. I’m a CPD Assistant and an Information Systems student passionate about cloud technologies and exploring the world of Front-End development.
-
-## Skills and Technologies 🖳
-- **Languages:** JavaScript, HTML5, CSS3, SCSS.
-- **Frameworks/Bibliotecas:** React.js, Vue.js and Node.js.
-- **APIs and Integrations:** RESTful API consumption, API integration in front-end projects.
-- **Version Control Tools:** Git, GitHub.
-- **Development Environments & Tools:** VS Code, Vite.
-- **Cloud and DevOps:** Hands-on experience with AWS (VPC, EC2, IAM), introductory cloud infrastructure with AWS Re/Start, basic CI/CD concepts.
-- **Additional Technical Skills:** Log consistency, Level 1 technical support, ticket management, experience with retail management systems and ERPs (Zanthus, Handcom, Alô Web, Vmix, MGV Cloud Prix).
-
+Hi! My name is Janderson Sousa. I’m a CPD Assistant and an Information Systems student passionate about cloud technologies.
 
 ## Certifications and Courses 🏆
 - Azure Fundamentals (AZ-900), Microsoft – 2024
@@ -27,8 +17,6 @@ Hi! My name is Janderson Sousa. I’m a CPD Assistant and an Information Systems
 - Microsoft Security, Compliance, and Identity Fundamentals (SC-900), Ka Solution – 2024
 - AWS Cloud Practitioner Essentials, TIDWIT – 2024
 - Cloud Computing - AWS Discovery Day, Ka Solution – 2024
-
-
 
 ## Contact and Social Media 📌
   <a href = "mailto:jandersonsouza_phn@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
