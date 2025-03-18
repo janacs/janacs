@@ -19,7 +19,7 @@ Hi! My name is Janderson Sousa. I’m a CPD Assistant and an Information Systems
 - Cloud Computing - AWS Discovery Day, Ka Solution – 2024
 
 ## Contact and Social Media 📌
-  <a href = "mailto:1996jann@gmail.com"><img src="[https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white](https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png)" target="_blank"></a>
+  <a href = "mailto:1996jann@gmail.com"><img src="![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" target="_blank"></a>
     <a href="https://www.linkedin.com/in/janderson-sousa-a23b5b1b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## GitHub Statistics 📊
