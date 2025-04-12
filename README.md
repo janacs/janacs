@@ -48,7 +48,6 @@ I'm certified in **Microsoft Azure (AZ-900)** and **AWS Cloud Practitioner**, an
 ---
 
 ## 📫 Contact  
-<a href="mailto:1996jann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
 <a href="https://www.linkedin.com/in/jandersonacsousa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 
 ---
