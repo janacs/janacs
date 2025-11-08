@@ -12,6 +12,7 @@ I'm passionate about building reliable IT environments—whether on-premises or 
 🔗 Credentials & Learning Profiles:  
 - [Credly Certifications](https://www.credly.com/earner/dashboard)  
 - [Microsoft Learn Profile](https://learn.microsoft.com/pt-br/users/jandersonacsousa/)
+- [Oracle University Learn](https://mylearn.oracle.com/ou/dashboard)
 
 📌 On LinkedIn, I share my journey, achievements, and thoughts on cloud, infrastructure, and career growth:  
 [linkedin.com/in/jandersonacsousa](https://www.linkedin.com/in/jandersonacsousa/)
