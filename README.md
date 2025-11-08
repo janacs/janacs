@@ -7,7 +7,7 @@ I'm passionate about building reliable IT environments—whether on-premises or 
 
 📍 Based in Rio de Janeiro, Brazil  
 🎓 Currently studying Information Systems  
-☁️ Certified in **AWS Cloud Practitioner** and **Azure Fundamentals (AZ-900)**
+☁️ Certified in **AWS Cloud Practitioner**, **Azure Fundamentals (AZ-900)** and **Oracle Cloud Infrastructure Foundations Associate**
 
 🧰 Tools & Technologies:  
 Azure, AWS, Oracle Cloud, DevOps, Active Directory, Microsoft Entra, Microsoft 365, Windows Server, Hyper-V, PowerShell, CloudShell, SQL Server, SQL Server Management Studio, IIS, Visual Studio, Visual Studio Code, Power BI, SharePoint, OneDrive, Teams, Outlook, Exchange, Excel, Word, Copilot, Stream, Windows OS, MSTSC TS Client/RDP, Znuny, AnyDesk, Linux
